@@ -9,6 +9,9 @@ tags: [test]
 author: Sarah Cohen
 ---
 
+**Paper: WEIGHT CHANGES RELATIVE TO DIET SODA INTAKE OF PARTICIPANTS IN A
+NUTRITION ORIENTED WEIGHT LOSS PROGRAM**
+
 **1. What are the null and alternative hypotheses?**
 Null hypothesis: that consumption of diet soda has no relation to consumer’s weight.
 Alternative hypotheses: 
